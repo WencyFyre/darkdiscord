@@ -43,10 +43,6 @@
     --toast-border: var(--background-tertiary) !important;
     --offline-color: rgb(60, 60, 60) !important;
 }
-.theme-dark .online-tab {
+.peopleColumn-1wMU14 {
     background-color: #141414 !important;
 }
-.theme-dark .peopleColumn{
-    background-color: #141414 !important;
-}
-
